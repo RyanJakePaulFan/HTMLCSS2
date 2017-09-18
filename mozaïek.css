@@ -1,6 +1,6 @@
 * {
   margin: 0 auto 0 auto;
-  width: 960px;
+  width: 940px;
 }
 
 ul {
@@ -9,7 +9,7 @@ ul {
 }
 
 ul li {
-  background: #787878;
+  background: black;
   padding: 5px;
   border: solid 2px black;
   display: inline;
@@ -26,11 +26,6 @@ header {
   height: 150px;
 
 }
-
-
-
-
-
 
 #groen {
   height: 250px;
