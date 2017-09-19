@@ -4,21 +4,23 @@
 }
 
 ul {
-  background: black;
+  background: #29516D;
   padding: 10px;
 }
 
 ul li {
-  background: #787878;
-  padding: 5px;
-  border: solid 2px black;
+  text-align: center;
+  background: #000000;
+  padding: 2px;
+  border: solid 1px grey;
   display: inline;
 }
 
 body {
-  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: grey url('../images/blokje.jpg') repeat;
+  font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+  background: #29516D url('../images/blokje.jpg') repeat;
 }
+
 
 header {
   background-image: url(file:///C:/Users/ryanl/Desktop/Code/Headervoorwebsite.jpg);

@@ -4,7 +4,7 @@
 }
 
 ul {
-  background: black;
+  background: #29516D;
   padding: 10px;
 }
 
@@ -12,13 +12,13 @@ ul li {
   text-align: center;
   background: #000000;
   padding: 2px;
-  border: solid 1px white;
+  border: solid 1px grey;
   display: inline;
 }
 
 body {
   font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: grey url('../images/blokje.jpg') repeat;
+  background: #29516D url('../images/blokje.jpg') repeat;
 }
 
 header {
@@ -36,7 +36,7 @@ section article {
 }
 
 footer {
-  background: grey;
+  background: #29516D;
 }
 
 footer h4 {
