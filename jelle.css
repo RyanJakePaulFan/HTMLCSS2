@@ -3,6 +3,11 @@
   width: 940px;
 }
 
+a:hover {
+  background-color: #29516D;
+  color: yellow;
+}
+
 ul {
   background: #29516D;
   padding: 10px;
