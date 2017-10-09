@@ -28,7 +28,7 @@ body {
 }
 
 header {
-  background-image: url(file:///C:/Users/ryanl/Desktop/Code/Headervoorwebsite.jpg);
+  background-image: url('../images/Headervoorwebsite.jpg');
   width: 960px;
   height: 150px;
 
